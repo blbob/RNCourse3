@@ -16,7 +16,9 @@ export default CategoryGridTile;
 
 
 const styles = new StyleSheet.create({
-  screen: {
-    flex: 1
+  gridItem: {
+    flex: 1,
+    margin: 16,
+    height: 150
   }
 });
